@@ -1,0 +1,2 @@
+DATABASE = 'NBA.db'
+TOKEN = ''
